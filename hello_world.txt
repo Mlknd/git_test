@@ -1,3 +1,5 @@
 get in touch with git
 hello friday!
 good day!
+ commit
+ 
